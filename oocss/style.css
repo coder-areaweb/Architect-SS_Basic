@@ -1,0 +1,232 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+  background: #EEE;
+
+  font: 13px Tahoma, Sans-Serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+h1, .h1 {
+  letter-spacing: 1px;
+
+  font-size: 180%;
+}
+
+h2, .h2 {
+  font-size: 130%;
+}
+
+h3, .h3 {
+  font-size: 100%;
+}
+
+input {
+  display: block;
+
+  width: 10em;
+
+  font-size: 9px;
+}
+
+button {
+  font-size: 9px;
+}
+
+.blue {
+  color: #FFF;
+  background: #293499;
+}
+
+.light-blue {
+  color: #000;
+  background: #DDE6FF;
+}
+
+.wrapper {
+  position: relative;
+
+  width: 700px;
+  min-height: 100%;
+  margin: 0 auto;
+
+  background: #FFF;
+}
+
+.header {
+  padding: 20px;
+
+  color: #FFF;
+  background: #45F;
+}
+
+.name {
+  display: inline-block;
+
+  margin: 0;
+  padding-left: 40px;
+}
+
+.search {
+  float: right;
+
+  font-size: 80%;
+}
+
+.search-label {
+  display: inline-block;
+}
+
+.search-button {
+  display: inline-block;
+
+  vertical-align: bottom;
+}
+
+.nav {
+  float: left;
+
+  width: 20%;
+}
+
+.nav-list {
+  margin: 50px 0;
+
+  font-size: 80%;
+}
+
+.nav-link {
+  display: block;
+
+  margin: 5px 0;
+  padding: 2px 5px;
+
+  text-decoration: none;
+
+  border: 1px solid #FFF;
+  border-right: 0;
+  border-left: 0;
+}
+
+.nav-link:hover {
+  color: #FFF;
+  background: #D00;
+}
+
+.main {
+  overflow: hidden;
+
+  padding-bottom: 42px;
+}
+
+.content {
+  float: left;
+
+  width: 55%;
+}
+
+.content-title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 0 15px;
+
+  color: #293499;
+}
+
+.content-image {
+  float: left;
+
+  margin: 0 15px 15px 0;
+  padding: 5px;
+
+  border: 1px solid #45F;
+}
+
+.article {
+  padding: 0 15px;
+}
+
+.news {
+  float: right;
+
+  width: 25%;
+
+  color: #293499;
+}
+
+.title {
+  margin: 0 0 20px 0;
+  padding: 10px;
+
+  text-transform: uppercase;
+
+  background: #DDE6FF;
+
+  font-weight: bold;
+}
+
+.item {
+  margin: 20px 5px;
+
+  color: #293499;
+
+  font-size: 80%;
+}
+
+.item-data {
+  float: left;
+
+  margin: 0 5px 0 0;
+
+  font-weight: bold;
+}
+
+.item-text {
+  display: inline;
+}
+
+.item-link {
+  padding-right: 13px;
+
+  color: #D00;
+}
+
+.item-separate {
+  margin: 22px 0;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+
+  width: 700px;
+  height: 42px;
+
+  color: #FFF;
+  background: #45F;
+}
+
+.footer-text {
+  display: block;
+  clear: both;
+
+  margin: 5px;
+
+  font-size: 70%;
+}
+
+.footer-link {
+  color: #FFF;
+}

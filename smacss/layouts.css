@@ -1,0 +1,51 @@
+.l-wrapper {
+  position: relative;
+
+  width: 700px;
+  min-height: 100%;
+  margin: 0 auto;
+
+  background: #FFF;
+}
+
+.l-header {
+  padding: 20px;
+
+  background: #45F;
+}
+
+.l-main {
+  overflow: hidden;
+
+  min-height: 100%;
+  padding-bottom: 42px;
+}
+
+.l-nav {
+  float: left;
+
+  width: 20%;
+}
+
+.l-content {
+  float: left;
+
+  width: 55%;
+}
+
+.l-news {
+  float: right;
+
+  width: 25%;
+}
+
+.l-footer {
+  position: absolute;
+  bottom: 0;
+
+  width: 700px;
+  height: 42px;
+
+  color: #FFF;
+  background: #45F;
+}
