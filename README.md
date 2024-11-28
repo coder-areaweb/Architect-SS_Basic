@@ -1,5 +1,5 @@
 ## CSS-methodologies "101" examples: SMACSS, Atomic, BEM and so on.
-![Logo](https://https://github.com/coder-areaweb/Architect-SS_Basic/blob/main//Architect.png)
+![Logo](https://github.com/coder-areaweb/Architect-SS_Basic/blob/main/Architect.png)
 
 ### Helping you select an CSS methodologie
 We wrote simple html page like "[Holy Grail Layout](https://en.wikipedia.org/wiki/Holy_Grail_(web_design))"
